@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://camo.githubusercontent.com/0e4ed3fc15a040d9c97456402f371bf987c8c49678223f5a02cc649989138a44/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3237313632343239322f6f726967696e616c2e676966"  />
+  <img height="160" src="https://media.tenor.com/ZwiXDI5sKe0AAAAM/lain-serial-experiments-lain.gif"  />
 </div>
 
 ###
